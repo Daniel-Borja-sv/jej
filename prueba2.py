@@ -1,1 +1,2 @@
-print("jijija")
+print("jelous")
+print("jiji")
